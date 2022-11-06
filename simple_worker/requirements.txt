@@ -1,0 +1,4 @@
+celery[redis]
+banana-dev 
+Flask
+python-dotenv
